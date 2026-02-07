@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/adrian-ego-aguirre/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/adrian-ego-aguirre/azure-network-protocols)
 
-<h2>Thank You for Visiting My Page! Feel free to connect with my on my LinkedIn!</h2>
+<h2>Thank You for Visiting My Page! Feel free to connect with me on LinkedIn!</h2>
 
 <h3>Socials:</h3>
 
