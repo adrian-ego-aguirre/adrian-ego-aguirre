@@ -1,4 +1,4 @@
-<h1>Welcome, I'm Adrian, an <a href="https://linkedin.com/in/adrian-ego-aguirre">IT Professional</a>☺</h1>
+<h1>Welcome, I'm Adrian, an <a href="https://linkedin.com/in/adrian-ego-aguirre">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
